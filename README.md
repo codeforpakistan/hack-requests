@@ -10,6 +10,7 @@ Shovel-ready
 * [Answers Community Kit](answers-community-kit.md)
 * [Census Area API](census-area-API.md)
 * [Map Open Data Catalogs](data-catalog-mapping.md)
+* [Expand NAICS API](naics-api.md)
 * [Optimize Answers](answers-seo-optimization.md)
 
 
@@ -21,4 +22,3 @@ Needs Work
 * [Broken Windows](broken-windows.md)
 * [Can I Park Here?](can-i-park-here.md)
 * [Scrape Open Data Catalogs](data-catalog-scraping.md)
-* [NAICS API](naics-api.md)

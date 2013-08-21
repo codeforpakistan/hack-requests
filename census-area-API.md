@@ -38,3 +38,9 @@ How To Start
 --------
 
 Check out the [open source GIS Heroku buildpack](https://github.com/migurski/heroku-buildpack-pygeo), and write a simple *Hello World* [Flask](http://flask.pocoo.org) application using it.
+
+
+Current Status
+--------
+
+[Andy Hull](https://github.com/andyhull) has expressed interest in this project.

@@ -13,7 +13,7 @@ LV app](https://github.com/codeforamerica/amiinlv). This is also a drastically s
 application](http://code.mapit.mysociety.org/), with the important caveat that setup should be a
 single-file, push-to-Heroku affair with only basic monitoring and display
 beyond the REST API. This would be best delivered as a Python application
-with an [open source GIS Heroku buildpack](https://github.com/migurski/heroku-buildpack-pygeo).
+with an [open source GIS Heroku buildpack](https://github.com/codeforamerica/heroku-buildpack-pygeo).
 
 Services offered by the API:
 
@@ -37,4 +37,10 @@ Help Available
 How To Start
 --------
 
-Check out the [open source GIS Heroku buildpack](https://github.com/migurski/heroku-buildpack-pygeo), and write a simple *Hello World* [Flask](http://flask.pocoo.org) application using it.
+Check out the [open source GIS Heroku buildpack](https://github.com/codeforamerica/heroku-buildpack-pygeo), and write a simple *Hello World* [Flask](http://flask.pocoo.org) application using it.
+
+
+Current Status
+--------
+
+[Andy Hull](https://github.com/andyhull) has expressed interest in this project.

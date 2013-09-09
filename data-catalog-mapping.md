@@ -31,3 +31,11 @@ Starting points for data catalogs:
 * [https://opendata.socrata.com/browse?tags=socrata+customers](https://opendata.socrata.com/browse?tags=socrata+customers)
 
 A Google spreadsheet or text file in Git would be an appropriate start to this project.
+
+
+Current Status
+--------
+
+[Shaunak Kashyap](https://github.com/ycombinator) and
+[Jacob Solomon](https://github.com/lippytak) have each expressed interest
+in tackling this project.

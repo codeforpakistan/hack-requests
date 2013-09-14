@@ -43,4 +43,7 @@ Check out the [open source GIS Heroku buildpack](https://github.com/codeforameri
 Current Status
 --------
 
-[Andy Hull](https://github.com/andyhull) has expressed interest in this project.
+[Andy Hull](https://github.com/andyhull) and [Michal Migurski](https://github.com/migurski)
+have created an initial Python implementation with sample data only in
+[US Census Area API](https://github.com/codeforamerica/US-Census-Area-API).
+Check there for progress.
